@@ -1,4 +1,4 @@
-# Reproducibility Study for : Integrating ChatGPT into Secure Hospital Networks: A Case Studyon Improving Radiology Report Analysis 
+# Reproducibility Study for : Integrating ChatGPT into Secure Hospital Networks: A Case Study on Improving Radiology Report Analysis 
 Paper Link : [link](https://arxiv.org/pdf/2402.09358)
 Presentation Link: [Youtube](https://youtu.be/U5M4hE0m1sM)
 ## Dependencies:
